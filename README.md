@@ -38,3 +38,6 @@ The **College Attendance System** is a desktop application built using Python an
 - Python 3.x
 - Tkinter (usually comes pre-installed with Python)
 - SQLite or MySQL (depending on your database choice)
+
+## Screenshot
+<img width="1065" alt="Screenshot 2024-09-18 at 23 27 56" src="https://github.com/user-attachments/assets/be46849a-1d61-4927-a6e2-96c37730d20d">
